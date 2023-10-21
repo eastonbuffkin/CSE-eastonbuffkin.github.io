@@ -3,14 +3,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-  color: [pick a font color];
+  color: cadetblue;
   text-align: center;
 }
 .assign {
+  background-color: cadetblue;
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: [pick a color];
 }
 .assign img {
   width: 200px;
