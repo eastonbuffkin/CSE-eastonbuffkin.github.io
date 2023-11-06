@@ -8,7 +8,7 @@ h1 {
 }
 a {
   text-decoration: none;
-  color: purple;
+  color: darkblue;
 .assign {
   background-color: skyblue;
   display: flex;
@@ -17,5 +17,6 @@ a {
 }
 .assign img {
   width: 200px;
-  padding: 10px;
+  margin: 10px;
+  border: 2px solid darkblue;
 }
