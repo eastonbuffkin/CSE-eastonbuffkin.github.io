@@ -10,6 +10,12 @@ h1:hover {
   color: skyblue;
   text-align: center;
 }
+h2 {
+  color: darkblue;
+}
+h2:hover {
+  color: teal;
+}
 a {
   text-decoration: none;
   color: darkblue;
