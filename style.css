@@ -6,6 +6,10 @@ h1 {
   color: darkblue;
   text-align: center;
 }
+h1:hover {
+  color: skyblue;
+  text-align: center;
+}
 a {
   text-decoration: none;
   color: darkblue;
@@ -14,9 +18,16 @@ a {
   display: flex;
   padding: 10px;
   margin: 10px;
+  boder-radius: 20px;
 }
 .assign img {
   width: 200px;
   margin: 10px;
   border: 2px solid darkblue;
 }
+.assign img:hover{
+  width: 200px;
+  margin: 10px;
+  border: 2px dotted black;
+}
+
