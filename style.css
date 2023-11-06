@@ -26,7 +26,7 @@ a {
   margin: 10px;
   border: 2px solid darkblue;
 }
-.assign img:hover{
+.assign img:hover {
   width: 200px;
   margin: 10px;
   border: 2px dotted black;
